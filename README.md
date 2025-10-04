@@ -7,7 +7,7 @@
 기본적으로 **휴대폰으로 2FA 인증을 메인으로 사용**하고, 
 **휴대폰이 당장 없거나 긴급 상황에서만** 이 앱을 사용하세요.
 
-[https://ro3zer.g](https://ro3zer.github.io/2fa/)
+**[https://ro3zer.github.io/2fa](https://ro3zer.github.io/2fa)**
 
 ---
 
